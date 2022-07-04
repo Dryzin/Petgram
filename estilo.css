@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(231, 231, 231);
+    background-image: linear-gradient(20deg,#947878d3,#fa66fad5, #655ec4d5,#1471fcd5);
     margin: 0;
     padding: 0;
     display: flex;
@@ -54,7 +54,7 @@ body {
     background-color: white;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1.3px solid #947878;
+    border: 3px solid #947878;
 }
 
 .group:nth-child(1) {
